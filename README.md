@@ -9,4 +9,6 @@ Goals:
 3. Develop the GH script to visualise the geometrical deformation data of the metal sheets in the virtual space. 
 4. Develop the MR interface with Hololens/Meta through Fologram to do remote collaboration and interaction with the virtual artefact of the robotic arm and English wheel. 
 5. Present the framework as a pipeline for digital twin model for English Wheel automation. 
-6. Evaluate the system architecture through using the technique of collective intelligence to measure the interaction performance
+6. Evaluate the system architecture through using the technique of collective intelligence to measure the interaction performance.
+
+
